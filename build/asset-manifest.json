@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/revamp/static/css/main.8530ac47.chunk.css",
+    "main.js": "/revamp/static/js/main.9e95eaec.chunk.js",
+    "main.js.map": "/revamp/static/js/main.9e95eaec.chunk.js.map",
+    "runtime-main.js": "/revamp/static/js/runtime-main.9c447a0a.js",
+    "runtime-main.js.map": "/revamp/static/js/runtime-main.9c447a0a.js.map",
+    "static/js/2.367f1fb0.chunk.js": "/revamp/static/js/2.367f1fb0.chunk.js",
+    "static/js/2.367f1fb0.chunk.js.map": "/revamp/static/js/2.367f1fb0.chunk.js.map",
+    "index.html": "/revamp/index.html",
+    "precache-manifest.e381a4f9141abe38b41fa45230ffff28.js": "/revamp/precache-manifest.e381a4f9141abe38b41fa45230ffff28.js",
+    "service-worker.js": "/revamp/service-worker.js",
+    "static/css/main.8530ac47.chunk.css.map": "/revamp/static/css/main.8530ac47.chunk.css.map",
+    "static/js/2.367f1fb0.chunk.js.LICENSE.txt": "/revamp/static/js/2.367f1fb0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/revamp/static/media/proximanova-regular.a61e6095.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c447a0a.js",
+    "static/js/2.367f1fb0.chunk.js",
+    "static/css/main.8530ac47.chunk.css",
+    "static/js/main.9e95eaec.chunk.js"
+  ]
+}
