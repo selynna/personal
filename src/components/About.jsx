@@ -25,7 +25,7 @@ const icons = [
     href: "https://medium.com/@selynna",
     icon: ['fab', 'medium-m']
   },
-]
+];
 
 export default props => (
   <AboutContainer>
@@ -137,15 +137,15 @@ export default props => (
           </StyledLink>.
       </AboutMe>
       <AboutIcons>
-        {icons.map(icon => (
-          <IconWrapper href={icon.href} target="_blank">
+        {icons.map((icon, id) => (
+          <IconWrapper href={icon.href} target="_blank" key={id}>
             <FontAwesomeIcon icon={icon.icon} size="lg" color="#5f5fc2" />
           </IconWrapper>
         ))}
       </AboutIcons>
     </AboutWrapper>
     <ImgContainer>
-      <Img src="/pic.jpg" alt="profile" />
+      <Img src="./pic.jpg" alt="profile" />
     </ImgContainer>
   </AboutContainer>
 );
@@ -194,7 +194,7 @@ const ImgContainer = styled.div`
   width: 30vw;
   max-width: 300px;
 
-  @media (pointer: coarse), (max-aspect-ratio: 5/5) {
+  @media (pointer: coarse), (max-aspect-ratio: 1/1) {
     display: none;
   }
 `;

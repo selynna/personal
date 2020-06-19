@@ -10,7 +10,12 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 import { library } from '@fortawesome/fontawesome-svg-core';
 
-import { About } from './components';
+import { 
+  About,
+  Talks,
+  Workshops,
+  Footer,
+} from './components';
 
 library.add(
   fab,
@@ -26,6 +31,9 @@ class App extends Component {
     return (
       <Wrapper>
         <About />
+        <Talks />
+        <Workshops />
+        <Footer />
       </Wrapper>
     );
   }
