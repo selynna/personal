@@ -120,14 +120,10 @@ const TalksWrapper = styled.div`
 
 const TalksHeader = styled.h1`
   display: flex;
-  background: linear-gradient(to right top, #667eea, #764ba2);
+  color: #5f5fc2;
   margin: 0;
   font-size: 36px;
   font-family: 'Proxima Nova Bold';
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-background-clip: text;
-  -moz-text-fill-color: transparent;
 
   @media (pointer: coarse), (max-aspect-ratio: 1/1) {
     justify-content: center;
