@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/revamp/static/css/main.8530ac47.chunk.css",
-    "main.js": "/revamp/static/js/main.44e590a0.chunk.js",
-    "main.js.map": "/revamp/static/js/main.44e590a0.chunk.js.map",
+    "main.js": "/revamp/static/js/main.f1db7e1b.chunk.js",
+    "main.js.map": "/revamp/static/js/main.f1db7e1b.chunk.js.map",
     "runtime-main.js": "/revamp/static/js/runtime-main.9c447a0a.js",
     "runtime-main.js.map": "/revamp/static/js/runtime-main.9c447a0a.js.map",
     "static/js/2.1101d209.chunk.js": "/revamp/static/js/2.1101d209.chunk.js",
     "static/js/2.1101d209.chunk.js.map": "/revamp/static/js/2.1101d209.chunk.js.map",
     "index.html": "/revamp/index.html",
-    "precache-manifest.7144332398c07268c772883ed9f6c0d4.js": "/revamp/precache-manifest.7144332398c07268c772883ed9f6c0d4.js",
+    "precache-manifest.47a94e036dcc2d26af5f663804e9ec25.js": "/revamp/precache-manifest.47a94e036dcc2d26af5f663804e9ec25.js",
     "service-worker.js": "/revamp/service-worker.js",
     "static/css/main.8530ac47.chunk.css.map": "/revamp/static/css/main.8530ac47.chunk.css.map",
     "static/js/2.1101d209.chunk.js.LICENSE.txt": "/revamp/static/js/2.1101d209.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9c447a0a.js",
     "static/js/2.1101d209.chunk.js",
     "static/css/main.8530ac47.chunk.css",
-    "static/js/main.44e590a0.chunk.js"
+    "static/js/main.f1db7e1b.chunk.js"
   ]
 }
