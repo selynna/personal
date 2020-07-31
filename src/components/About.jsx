@@ -42,7 +42,7 @@ export default props => (
           >
             Cal Poly SLO 
           </StyledLink>
-          {" "} studying computer science. This summer, I'll be returning to the
+          {" "} studying computer science. This summer, I'm returning to the
           Revenue Productivity team at{" "}
           <StyledLink
             href="https://twitter.com"
@@ -172,13 +172,9 @@ const AboutWrapper = styled.div`
 const AboutHeader = styled.h1`
   display: flex;
   margin: 0;
-  background: linear-gradient(to right top, #667eea, #764ba2);
+  color: #5f5fc2;
   font-size: 48px;
   font-family: 'Proxima Nova Bold';
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-background-clip: text;
-  -moz-text-fill-color: transparent;
 `;
 
 const AboutMe = styled.div`
